@@ -1,0 +1,2 @@
+# gos
+Go Object Store
